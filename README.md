@@ -2,6 +2,11 @@
 
 ## Config & Setup
 
+Install node modules
+```
+npm i
+```
+
 Create a public folder
 ```
 mkdir public
@@ -20,4 +25,6 @@ npm start
 ```
 PORT=8043 node index.js
 ```
+
+
 
