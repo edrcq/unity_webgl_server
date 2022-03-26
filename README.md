@@ -11,6 +11,7 @@ Create a public folder
 ```
 mkdir public
 ```
+Then drag and drop your builded files in the `public` folder
 
 ## Start
 
